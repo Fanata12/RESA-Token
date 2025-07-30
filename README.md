@@ -59,3 +59,5 @@ Rain Environment Steam Assets (RESA) adalah token digital berbasis BNB Smart Cha
 ## 🖼 Logo Token
 
 <img src="https://github.com/user-attachments/assets/16f006d1-10d2-4511-ae38-9367cf5a9157" width="150" alt="RESA Logo" />
+
+![RESA Logo](./resa-logo.png)
